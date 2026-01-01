@@ -1,0 +1,7 @@
+{
+  "name": "Sphere Showreel with Hand Tracking",
+  "description": "An interactive 3D spherical image gallery controlled by hand gestures using MediaPipe and React Three Fiber.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
